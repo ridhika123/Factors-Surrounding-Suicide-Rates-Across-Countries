@@ -12,6 +12,8 @@ Reducing suicide rate has been a focal point of many disciplines for decades. It
 * Data on Income Group from The World Bank.
 
 ## Code
+* [data_cleaning](https://github.com/ridhika123/Factors-Surrounding-Suicide-Rates-Across-Countries/blob/main/data_analysis.R): Data cleaning step.
+* [data_analysis](https://github.com/ridhika123/Factors-Surrounding-Suicide-Rates-Across-Countries/blob/main/data_analysis.R): ANOVA and Multivariate Regression Analysis after data is cleaned. 
 
 ## Final Output
 Final paper can be found [here](https://github.com/ridhika123/Factors-Surrounding-Suicide-Rates-Across-Countries/blob/main/Factors%20Surrounding%20Suicide%20Rates%20Across%20Countries.pdf)
