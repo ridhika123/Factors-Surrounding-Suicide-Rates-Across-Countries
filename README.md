@@ -6,3 +6,4 @@ Reducing suicide rate has been a focal point of many disciplines for decades. It
 ## Code
 
 ## Final Output
+Final paper can be found [here](https://github.com/ridhika123/Factors-Surrounding-Suicide-Rates-Across-Countries/blob/main/Factors%20Surrounding%20Suicide%20Rates%20Across%20Countries.pdf)
